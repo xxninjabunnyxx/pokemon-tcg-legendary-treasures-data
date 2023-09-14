@@ -1,0 +1,97 @@
+---
+id: bw11-42
+name: Seismitoad
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '140'
+types:
+- Water
+evolvesFrom: Palpitoad
+attacks:
+- name: Round
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 30×
+  text: Does 30 damage times the number of your Pokémon that have the Round attack.
+- name: Hyper Voice
+  cost:
+  - Water
+  - Water
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '70'
+  text: ''
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: bw11
+  name: Legendary Treasures
+  series: Black & White
+  printedTotal: 113
+  total: 140
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: LTR
+  releaseDate: 2013/11/06
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/bw11/symbol.png
+    logo: https://images.pokemontcg.io/bw11/logo.png
+number: '42'
+artist: Hajime Kusajima
+rarity: Rare
+flavorText: It increases the power of its punches by vibrating the bumps on its fists.
+  It can turn a boulder to rubble with one punch.
+nationalPokedexNumbers:
+- 537
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/bw11/42.png
+  large: https://images.pokemontcg.io/bw11/42_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/bw11-42
+  updatedAt: 2023/09/14
+  prices:
+    normal:
+      low: 0.1
+      mid: 0.3
+      high: 99.99
+      market: 0.27
+      directLow: 0.23
+    reverseHolofoil:
+      low: 0.35
+      mid: 0.69
+      high: 3.79
+      market: 0.85
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/bw11-42
+  updatedAt: 2023/09/14
+  prices:
+    averageSellPrice: 0.8
+    lowPrice: 0.05
+    trendPrice: 0.56
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 1.49
+    reverseHoloLow: 7.9
+    reverseHoloTrend: 2.41
+    lowPriceExPlus: 0.2
+    avg1: 0.7
+    avg7: 0.61
+    avg30: 0.54
+    reverseHoloAvg1: 1.49
+    reverseHoloAvg7: 2.06
+    reverseHoloAvg30: 1.49
